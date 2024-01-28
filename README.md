@@ -1,12 +1,5 @@
-# Sistem Pakar Kebun Sawit
-Membuat Aplikasi Sistem Pakar Kebun Sawit dengan Metode Forward Chaining
-
-# Tutorial Build with Android Studio
-https://youtu.be/mudDYX9QDtw
-
-# Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2022/08/tutorial-membuat-aplikasi-sistem-pakar-kebun-sawit-dengan-metode-forward-chaining.html
-
+# Sistem Pakar Diagnosa kerusakan Printer passbook epson PLQ 30
+Membuat Aplikasi Sistem Pakar printerpassbook dengan Metode Forward Chaining
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVUDioET51TlobtGUP7BgRuku9zM22QMO0i_HweIHxjH7pe4-8bx0xSLxXbiIHZ6DL8rEB06fOahFxf__QjEh9hjia0x6xsoDOO_aAtMXEujIi_1Fzzp8YdraSGmkVji2VDXPnGKWharZoNSQstu3rVcx7duLdPlEEM2xUMNOzMZm0GFusYurhvUeEA/s1280/Tutorial%20Membuat%20Aplikasi%20Sistem%20Pakar%20Kebun%20Sawit%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVUDioET51TlobtGUP7BgRuku9zM22QMO0i_HweIHxjH7pe4-8bx0xSLxXbiIHZ6DL8rEB06fOahFxf__QjEh9hjia0x6xsoDOO_aAtMXEujIi_1Fzzp8YdraSGmkVji2VDXPnGKWharZoNSQstu3rVcx7duLdPlEEM2xUMNOzMZm0GFusYurhvUeEA/s1280/Tutorial%20Membuat%20Aplikasi%20Sistem%20Pakar%20Kebun%20Sawit%20dengan%20Android%20Studio.png" style="max-width:100%;">
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
