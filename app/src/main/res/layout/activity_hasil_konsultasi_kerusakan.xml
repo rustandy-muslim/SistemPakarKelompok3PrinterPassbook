@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ffffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout android:id="@+id/relative1"
+        android:paddingTop="32dp"
+        android:paddingBottom="32dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="prosesajagung">
+
+        <TextView android:textSize="14sp"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kemungkinan Penyakit dengan Nilai Probabilitas Terbesar"/>
+
+        <TextView android:textSize="35sp"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:layout_below="@+id/textView1"/>
+
+        <TextView android:textSize="18sp"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:layout_below="@+id/textView2"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:id="@+id/relative2"
+        android:background="#ffeceff1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relative1">
+
+        <TextView android:textSize="14sp"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:id="@+id/textView01"
+            android:padding="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nilai Probabilitas Tiap Penyakit"/>
+
+    </RelativeLayout>
+    <ListView android:id="@+id/lv_viewpenyakit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/relative2"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

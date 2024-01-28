@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.azhar.spks">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoapk"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SistemPakarprinter"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        tools:replace="android:appComponentFactory"
+        tools:ignore="HardcodedDebugMode,UnusedAttribute">
+        <activity
+            android:name="ini.punya.rustandy.activities.tentang"
+            android:exported="false"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name="ini.punya.rustandy.activities.DetailPenyakitActivity"
+            android:exported="true"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name="ini.punya.rustandy.activities.DaftarPenyakitActivity"
+            android:exported="true" />
+        <activity
+            android:name="ini.punya.rustandy.activities.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name="ini.punya.rustandy.activities.KonsultasiActivity"
+            android:exported="true" />
+        <activity
+            android:name="ini.punya.rustandy.activities.FiturWA"
+            android:exported="true" />
+        <activity
+            android:name="ini.punya.rustandy.activities.tentangpakar"
+            android:exported="true" />
+        <activity
+            android:name="ini.punya.rustandy.activities.Splash_screen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ini.punya.rustandy.activities.HasilDiagnosaActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

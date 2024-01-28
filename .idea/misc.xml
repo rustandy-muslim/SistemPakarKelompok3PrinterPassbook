@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/drawable/bg_rounded_all.xml" value="0.118" />
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/layout/activity_daftar_kerusakan.xml" value="0.2" />
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/layout/activity_detail_kerusakan.xml" value="0.2" />
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/layout/activity_fitur_wa.xml" value="0.2" />
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/layout/activity_hasil_diagnosa.xml" value="0.2" />
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/layout/activity_hasil_konsultasi_kerusakan.xml" value="0.19635416666666666" />
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/layout/activity_splash_screen.xml" value="0.14666666666666667" />
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/layout/activity_tentang.xml" value="0.22" />
+        <entry key="..\:/RUSSKELOMPOK03terbaru/RUSSKELOMPOK03/app/src/main/res/layout/activity_tentangpakar.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
