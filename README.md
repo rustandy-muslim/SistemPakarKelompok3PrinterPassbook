@@ -1,5 +1,6 @@
 # Kelompok 03
-![Uploading logo.png…]()
+![logo](https://github.com/rustandy-muslim/SistemPakarKelompok3PrinterPassbook/assets/122608839/de6709f5-afc8-4570-b581-7b1a84186788)
+
 
 # Sistem Pakar Diagnosa kerusakan Printer passbook epson PLQ 30
 Membuat Aplikasi Sistem Pakar printerpassbook dengan Metode Teorema Bayes
