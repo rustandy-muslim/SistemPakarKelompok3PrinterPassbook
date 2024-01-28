@@ -6,9 +6,9 @@ Membuat Aplikasi Sistem Pakar printer passbook dengan Metode Teorema Bayes
 adalah suatu sistem berbasis kecerdasan buatan yang dirancang untuk membantu mengidentifikasi dan memberikan solusi atas berbagai masalah atau kerusakan yang mungkin terjadi pada printer Epson PLQ-30. Sistem pakar ini menggunakan pengetahuan dan aturan yang telah diprogram sebelumnya untuk melakukan diagnosis dan memberikan rekomendasi pemecahan masalah.
 
 # FULL TEAM
-! Rustandy Muslim (202155202067) 
-Alfiyyah Faridah (202155202112)
-Muhammad Risky Walli (202155202094)
+Rustandy Muslim (202155202067) 
+![enter] (Alfiyyah Faridah (202155202112))
+![enter] (Muhammad Risky Walli (202155202094))
 
 # Developer :
 https://linktr.ee/Rumusss
