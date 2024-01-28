@@ -7,8 +7,8 @@ adalah suatu sistem berbasis kecerdasan buatan yang dirancang untuk membantu men
 
 # FULL TEAM
 Rustandy Muslim (202155202067) 
-![enter] (Alfiyyah Faridah (202155202112))
-![enter] (Muhammad Risky Walli (202155202094))
+Alfiyyah Faridah (202155202112)
+Muhammad Risky Walli (202155202094)
 
 # Developer :
 https://linktr.ee/Rumusss
